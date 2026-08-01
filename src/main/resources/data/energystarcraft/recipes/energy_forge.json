@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "OSO",
+    "NAN",
+    "ONO"
+  ],
+  "key": {
+    "O": { "item": "minecraft:obsidian" },
+    "S": { "item": "minecraft:nether_star" },
+    "A": { "item": "minecraft:diamond" },
+    "N": { "item": "minecraft:diamond_block" }
+  },
+  "result": {
+    "item": "energystarcraft:energy_forge",
+    "count": 1
+  }
+}

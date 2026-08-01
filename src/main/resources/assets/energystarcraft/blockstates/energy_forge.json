@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "energystarcraft:block/energy_forge"
+    }
+  }
+}

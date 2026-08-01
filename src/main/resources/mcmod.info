@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "energystarcraft",
+    "name": "Energy Starcraft",
+    "description": "Craft Nether Stars using FE energy. Place the Energy Forge, feed 350M FE from any energy mod (Mekanism, AE2, Thermal) and get automatic production.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateJSON": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [],
+    "authors": [
+      "Developer"
+    ],
+    "credits": ""
+  }
+]
