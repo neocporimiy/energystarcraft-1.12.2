@@ -1,7 +1,10 @@
 {
   "variants": {
     "normal": {
-      "model": "energystarcraft:block/energy_forge"
+      "model": "energystarcraft:energy_forge"
+    },
+    "inventory": {
+      "model": "energystarcraft:energy_forge"
     }
   }
 }
